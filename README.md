@@ -16,7 +16,3 @@ $Python Setup.py
 
 After Installation, Navigate the file directory in File Explorer to /tcg_player/dist/TCG_Collector.exe
 ----------------------------------------------------------------
-
-If yugioh_database.py doesnt successfully install via setup.py / requirements.txt
-You can download from https://github.com/womack5706/yugioh_database
-----------------------------------------------------------------
